@@ -1,0 +1,40 @@
+Name: John Doe
+Student ID: 101
+Department: Computer Science
+Address: 123 Main St
+
+Name: Jane Smith
+Student ID: 102
+Department: Electrical Engineering
+Address: 456 Elm St
+
+Name: Ram Joshi
+Student ID: 101
+Department: Computer Science
+Address: 123 Main St
+
+Name: Hari Yadav
+Student ID: 102
+Department: Electrical Engineering
+Address: 456 Elm St
+
+Name: Ram Joshi
+Student ID: 101
+Department: Computer Science
+Address: 123 Main St
+
+Name: Hari Yadav
+Student ID: 102
+Department: Electrical Engineering
+Address: 456 Elm St
+
+Name: Ram Joshi
+Student ID: 101
+Department: Computer Science
+Address: 123 Main St
+
+Name: Hari Yadav
+Student ID: 102
+Department: Electrical Engineering
+Address: 456 Elm St
+
